@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>car.jpg</file>
+        <file>ground.png</file>
+        <file>car.png</file>
+        <file>wall.jpg</file>
+        <file>Mercator-projection.ppm</file>
+        <file>markus.ppm</file>
+        <file>Marc_Dekamps.ppm</file>
+    </qresource>
+</RCC>
